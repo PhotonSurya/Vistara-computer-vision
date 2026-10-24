@@ -1,0 +1,83 @@
+{
+  "image": "test.webp",
+  "total_detections": 7,
+  "detections": [
+    {
+      "class_id": 0,
+      "class": "pothole",
+      "confidence": 0.8762,
+      "bounding_box": {
+        "x1": 169,
+        "y1": 586,
+        "x2": 419,
+        "y2": 762
+      }
+    },
+    {
+      "class_id": 0,
+      "class": "pothole",
+      "confidence": 0.8466,
+      "bounding_box": {
+        "x1": 603,
+        "y1": 647,
+        "x2": 931,
+        "y2": 826
+      }
+    },
+    {
+      "class_id": 0,
+      "class": "pothole",
+      "confidence": 0.6488,
+      "bounding_box": {
+        "x1": 651,
+        "y1": 424,
+        "x2": 889,
+        "y2": 492
+      }
+    },
+    {
+      "class_id": 0,
+      "class": "pothole",
+      "confidence": 0.6114,
+      "bounding_box": {
+        "x1": 95,
+        "y1": 796,
+        "x2": 270,
+        "y2": 914
+      }
+    },
+    {
+      "class_id": 0,
+      "class": "pothole",
+      "confidence": 0.5361,
+      "bounding_box": {
+        "x1": 969,
+        "y1": 578,
+        "x2": 1199,
+        "y2": 941
+      }
+    },
+    {
+      "class_id": 0,
+      "class": "pothole",
+      "confidence": 0.4887,
+      "bounding_box": {
+        "x1": 493,
+        "y1": 586,
+        "x2": 634,
+        "y2": 622
+      }
+    },
+    {
+      "class_id": 0,
+      "class": "pothole",
+      "confidence": 0.4737,
+      "bounding_box": {
+        "x1": 333,
+        "y1": 834,
+        "x2": 398,
+        "y2": 873
+      }
+    }
+  ]
+}
